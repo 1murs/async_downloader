@@ -10,8 +10,7 @@ Dependencies:
 - selectolax.parser: HTML parser for selecting elements in an HTML document.
 - os: Operating system-related functionality.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: [1murs/Petro]
 
 """
 
